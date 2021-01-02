@@ -1,6 +1,6 @@
 [
     {
-      "team": "BG Pathum United",
+      "club": "BG Pathum United",
       "website": "http://www.bgputd.com/",
       "instagram": "https://www.instagram.com/bgpu_official",
       "facebook": "https://www.facebook.com/BGPATHUMUNITED/",
@@ -8,7 +8,7 @@
       "youbute": "https://www.youtube.com/user/BGFCtv"
     },
     {
-      "team": "Buriram United",
+      "club": "Buriram United",
       "website": "https://www.buriramunited.com/",
       "instagram": "https://www.instagram.com/BuriramUnitedOfficial/",
       "facebook": "https://www.facebook.com/BuriramUnitedFC/",
@@ -16,7 +16,7 @@
       "youbute": "https://www.youtube.com/user/KarunaChidchob"
     },
     {
-      "team": "Chonburi Football Club",
+      "club": "Chonburi Football Club",
       "website": "http://chonburifootballclub.com/",
       "instagram": "https://www.instagram.com/chonburi_fc_official/",
       "facebook": "https://www.facebook.com/chonburi.football.club",
@@ -24,7 +24,7 @@
       "youbute": "https://www.youtube.com/user/ChannelSharks"
     },
     {
-      "team": "Nakhonratchasima FC",
+      "club": "Nakhonratchasima FC",
       "website": "",
       "instagram": "https://www.instagram.com/nakhonratchasima_fc_official",
       "facebook": "https://www.facebook.com/swatcatofficial",
@@ -32,7 +32,7 @@
       "youbute": ""
     },
     {
-      "team": "Police Tero FC",
+      "club": "Police Tero FC",
       "website": "http://www.policetero.com/",
       "instagram": "https://www.instagram.com/policetero_fc/",
       "facebook": "https://www.facebook.com/policeterofc",
@@ -40,7 +40,7 @@
       "youbute": "https://www.youtube.com/channel/UCyn1irsaC0Sgngm0IPRavrw"
     },
     {
-      "team": "Port Football Club",
+      "club": "Port Football Club",
       "website": "",
       "instagram": "https://www.instagram.com/portfc_official",
       "facebook": "https://www.facebook.com/portfootballclubofficial",
@@ -48,7 +48,7 @@
       "youbute": "https://www.youtube.com/channel/UC5Tfl6dq-SP-6I89J6e4lMQ/"
     },
     {
-      "team": "Ratchaburi Mitr Phol FC",
+      "club": "Ratchaburi Mitr Phol FC",
       "website": "",
       "instagram": "https://www.instagram.com/rbmfcofficial/",
       "facebook": "https://www.facebook.com/RBMFCOFFICIAL/",
@@ -56,7 +56,7 @@
       "youbute": "https://www.youtube.com/channel/UCAzGajsQMyos5Ni0pad1CVg"
     },
     {
-      "team": "Rayong FC",
+      "club": "Rayong FC",
       "website": "",
       "instagram": "https://www.instagram.com/rayong_fc",
       "facebook": "https://www.facebook.com/Rayong.FC.Fanpage/",
@@ -64,7 +64,7 @@
       "youbute": ""
     },
     {
-      "team": "Samutprakan City",
+      "club": "Samutprakan City",
       "website": "https://www.samutprakancityfc.com/",
       "instagram": "https://www.instagram.com/samutprakancityfc/",
       "facebook": "https://www.facebook.com/samutprakancityfc/",
@@ -72,7 +72,7 @@
       "youbute": "https://www.youtube.com/channel/UCZ7rXdFrBLwnUeKmmB6FbKw"
     },
     {
-      "team": "SCG Muangthong United",
+      "club": "SCG Muangthong United",
       "website": "http://www.mtutd.tv/",
       "instagram": "https://www.instagram.com/muangthongunited/",
       "facebook": "https://www.facebook.com/SCGMuangthongUnited",
@@ -80,7 +80,7 @@
       "youbute": "https://www.youtube.com/user/muangthongutd"
     },
     {
-      "team": "Singha Chiangrai United",
+      "club": "Singha Chiangrai United",
       "website": "https://www.crutd.com/",
       "instagram": "https://www.instagram.com/chiangrai_united",
       "facebook": "https://www.facebook.com/CRUTD/",
@@ -88,7 +88,7 @@
       "youbute": "https://www.youtube.com/channel/UCZzsbC7ZeOR7y8ddbacmgkw"
     },
     {
-      "team": "Sukhothai FC",
+      "club": "Sukhothai FC",
       "website": "",
       "instagram": "https://www.instagram.com/sukhothaifcofficial/",
       "facebook": "https://www.facebook.com/STFC2009/",
@@ -96,7 +96,7 @@
       "youbute": ""
     },
     {
-      "team": "Suphanburi Football Club",
+      "club": "Suphanburi Football Club",
       "website": "http://www.suphanburifootballclub.com/",
       "instagram": "https://www.instagram.com/suphanburifc",
       "facebook": "https://www.facebook.com/SuphanburiFc",
@@ -104,7 +104,7 @@
       "youbute": "https://www.youtube.com/user/TheSPFCTV"
     },
     {
-      "team": "True Bangkok United",
+      "club": "True Bangkok United",
       "website": "http://www.truebangkokunitedfc.com/",
       "instagram": "https://www.instagram.com/true_bangkok_united/",
       "facebook": "https://www.facebook.com/truebangkokunited/",
@@ -112,7 +112,7 @@
       "youbute": "https://www.youtube.com/channel/UCKalGZGed6TMvi_F52oW6Tw"
     },
     {
-      "team": "PT Prachuap FC",
+      "club": "PT Prachuap FC",
       "website": "",
       "instagram": "https://www.instagram.com/ptprachuapfc/",
       "facebook": "https://www.facebook.com/PrachuapFc2011/",
@@ -120,7 +120,7 @@
       "youbute": "https://www.youtube.com/channel/UC-aN5xtihVR97r5qmooGovw"
     },
     {
-      "team": "Trat FC",
+      "club": "Trat FC",
       "website": "",
       "instagram": "https://www.instagram.com/tratfc2020/",
       "facebook": "https://www.facebook.com/tratfc2012/",
